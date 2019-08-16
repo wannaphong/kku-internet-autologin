@@ -20,6 +20,10 @@
 
 อ่านเอกสารการใช้งานได้ที่ https://github.com/wannaphongcom/kku-internet-autologin/wiki/Using
 
+## ร่วมพัฒนา !!!
+
+fork แล้วส่ง pull requests กลับมา !!!
+
 ## เกี่ยวกับผู้พัฒนา
 
 พัฒนาโดย นาย วรรณพงษ์ ภัททิยไพบูลย์
