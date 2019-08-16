@@ -16,6 +16,10 @@
 
 อ่านได้จากเอกสาร https://github.com/wannaphongcom/kku-internet-autologin/wiki/Setup
 
+## การใช้งาน
+
+อ่านเอกสารการใช้งานได้ที่ https://github.com/wannaphongcom/kku-internet-autologin/wiki/Using
+
 ## เกี่ยวกับผู้พัฒนา
 
 พัฒนาโดย นาย วรรณพงษ์ ภัททิยไพบูลย์
