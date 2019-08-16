@@ -1,6 +1,6 @@
 # KKU Internet Autologin
 
-![](https://i.imgur.com/nDwF3k9.png)
+![KKU Internet Autologin](https://i.imgur.com/nDwF3k9.png)
 
 โปรเจคนี้เป็นโปรเจคทำเล่น ๆ :D
 
@@ -12,6 +12,9 @@
 
 ไม่ลบเครติดทิ้งในไฟล์โค้ดโปรแกรม
 
+## การติดตั้ง
+
+อ่านได้จากเอกสาร https://github.com/wannaphongcom/kku-internet-autologin/wiki/Setup
 
 ## เกี่ยวกับผู้พัฒนา
 
