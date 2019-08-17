@@ -28,7 +28,7 @@ def is_connected()->bool:
 def login(user:str,password:str)->bool:
     try:
         browser.get('https://login.kku.ac.th/')
-        time.sleep(5)
+        time.sleep(0)
         browser.find_element_by_id('username').send_keys(user)
         browser.find_element_by_id('password').send_keys(password)
         browser.find_element_by_xpath("/html/body/div[2]/div/div/div[1]/div/form/div[4]/div/button").click()
